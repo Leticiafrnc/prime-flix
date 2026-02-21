@@ -1,16 +1,37 @@
-# React + Vite
+# 🎬 Prime Flix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido com foco em praticar desenvolvimento Full Stack, consumindo API de filmes e criando uma interface.
 
-Currently, two official plugins are available:
+🚧 **Status do Projeto: Em Construção** 🚧  
+Este projeto ainda está em desenvolvimento e novas funcionalidades serão adicionadas em breve.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Sobre o Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O Prime Flix é uma aplicação web inspirada em plataformas de streaming, onde é possível:
 
-## Expanding the ESLint configuration
+- 🎥 Visualizar lista de filmes
+- 🔍 Ver detalhes de cada filme
+- ❤️ Salvar filmes como favoritos
+- 📱 Navegação responsiva
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O objetivo principal é aprimorar habilidades em desenvolvimento web, organização de componentes e consumo de APIs.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- ⚛️ React
+- 🟢 Node.js
+- 🎨 CSS3
+- 🌐 API de filmes
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### 1️⃣ Clonar o repositório
+
+```bash
+git clone https://github.com/Leticiafrnc/prime-flix.git
